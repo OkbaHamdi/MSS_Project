@@ -1,0 +1,32 @@
+  <div class="outer">
+    <div class="container">
+        <div class="row">
+            <div class="offset-md-2 col-lg-5 col-md-7 offset-lg-4 offset-md-3">
+                <div class="panel border bg-white">
+
+                    <div class="panel-body p-3">
+                       
+                          <div>
+                            <h2>Add BIN</h2>
+                            <div *ngIf="successMessage" class="success">{{ successMessage }}</div>
+                            <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+                            <div>
+                                <label for="bankCode">Bank Code:</label>
+                                <input type="text" id="bankCode" [(ngModel)]="BinData.bankCode" />
+                              </div>
+                            <div>
+                              <label for="binID">Bin ID:</label>
+                              <input type="text" id="binID" [(ngModel)]="BinData.binID" />
+                            </div>
+                            <div>
+                              <label for="stock">STOCK :</label>
+                              <input type="checkbox" id="stock" [(ngModel)]="BinData.stock" />
+                            </div>
+                            <button (click)="addBin()">Add</button>
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>

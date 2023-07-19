@@ -1,0 +1,28 @@
+
+  <div class="outer">
+    <div class="container">
+        <div class="row">
+            <div class="offset-md-2 col-lg-5 col-md-7 offset-lg-4 offset-md-3">
+                <div class="panel border bg-white">
+
+                    <div class="panel-body p-3">
+                          <div>
+                            <h2>Add Bank</h2>
+                            <div *ngIf="successMessage" class="success">{{ successMessage }}</div>
+                            <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+                            <div>
+                                <label for="bankCode">Bank Code:</label>
+                                <input type="text" id="bankCode" [(ngModel)]="BankData.bankCode" />
+                              </div>
+                            <div>
+                              <label for="codeApp">Code APP:</label>
+                              <input type="text" id="codeApp" [(ngModel)]="BankData.codeApp" />
+                            </div>
+                            <button (click)="addBank()">Add Bank</button>
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>

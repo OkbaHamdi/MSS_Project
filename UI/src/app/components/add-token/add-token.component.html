@@ -1,0 +1,26 @@
+  <div class="outer">
+    <div class="container">
+        <div class="row">
+            <div class="offset-md-2 col-lg-5 col-md-7 offset-lg-4 offset-md-3">
+                <div class="panel border bg-white">
+                    <div class="panel-body p-3">
+                      <div>
+                        <h2>Add Token</h2>
+                        <div *ngIf="successMessage" class="success">{{ successMessage }}</div>
+                        <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+                        <div>
+                            <label for="bankCode">Bank Code:</label>
+                            <input type="text" id="bankCode" [(ngModel)]="TokenData.bankCode" />
+                          </div>
+                        <div>
+                          <label for="token">Token :</label>
+                          <input type="text" id="token" [(ngModel)]="TokenData.token" />
+                        </div>
+                        <button (click)="addToken()">Add</button>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>

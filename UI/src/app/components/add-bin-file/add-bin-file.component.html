@@ -1,0 +1,32 @@
+<div class="outer">
+    <div class="container">
+        <div class="row">
+            <div class="offset-md-2 col-lg-5 col-md-7 offset-lg-4 offset-md-3">
+                <div class="panel border bg-white">
+                    <div class="panel-body p-3">
+                       
+                      <div>
+                        <h2>Add BIN File</h2>
+                        <div *ngIf="successMessage" class="success">{{ successMessage }}</div>
+                        <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+                        <div>
+                          <label for="bankCode">Bank Code:</label>
+                          <input type="text" id="bankCode" [(ngModel)]="BinFileData.bankCode" />
+                        </div>
+                        <div>
+                          <label for="stock">STOCK :</label>
+                          <input type="checkbox" id="stock" [(ngModel)]="BinFileData.stock" />
+                        </div>
+                        <div>
+                          <label for="file">Upload File</label>
+                          <input type="file" id="file" (change)="onFileChange($event)" />
+                        </div>
+                        <button (click)="AddBinFile()">Add</button>
+                      </div>
+          
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
