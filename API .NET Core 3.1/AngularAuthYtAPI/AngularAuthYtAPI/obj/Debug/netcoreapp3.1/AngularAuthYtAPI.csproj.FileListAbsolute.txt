@@ -1,0 +1,181 @@
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.exe
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.deps.json
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.runtimeconfig.json
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.runtimeconfig.dev.json
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.pdb
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.Views.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.Views.pdb
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.csproj.AssemblyReference.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.AssemblyInfoInputs.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.AssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.csproj.CoreCompileInputs.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorAssemblyInfo.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorAssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\AngularAuthYtAPI.StaticWebAssets.Manifest.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\AngularAuthYtAPI.StaticWebAssets.Pack.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.AngularAuthYtAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.AngularAuthYtAPI.props
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AngularAuthYtAPI.props
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AngularAuthYtAPI.props
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.TagHelpers.input.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.TagHelpers.output.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorCoreGenerate.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorTargetAssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.Views.pdb
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.csproj.CopyComplete
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.pdb
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.genruntimeconfig.cache
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hokba\OneDrive\Bureau\API\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.exe
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.deps.json
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.runtimeconfig.json
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.runtimeconfig.dev.json
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.pdb
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.Views.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\AngularAuthYtAPI.Views.pdb
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.csproj.AssemblyReference.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.AssemblyInfoInputs.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.AssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.csproj.CoreCompileInputs.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorAssemblyInfo.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorAssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\AngularAuthYtAPI.StaticWebAssets.Manifest.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\AngularAuthYtAPI.StaticWebAssets.Pack.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.AngularAuthYtAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.AngularAuthYtAPI.props
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AngularAuthYtAPI.props
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AngularAuthYtAPI.props
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.TagHelpers.input.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.TagHelpers.output.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorCoreGenerate.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.RazorTargetAssemblyInfo.cs
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.Views.pdb
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.csproj.CopyComplete
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.pdb
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\obj\Debug\netcoreapp3.1\AngularAuthYtAPI.genruntimeconfig.cache
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hokba\OneDrive\Bureau\MSS project\API 3.1\AngularAuthYtAPI\AngularAuthYtAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
